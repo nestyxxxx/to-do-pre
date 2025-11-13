@@ -5,13 +5,11 @@
       "Abstract"
     ],
     "Abstract": [
-      "Abstract/New",
-      "Abstract/html, css.md",
-      "Abstract/JavaScript.md",
       "Abstract/верстка.md",
       "Abstract/общее.md",
       "Abstract/Git.md",
-      "Abstract/README.md",
+      "Abstract/html, css.md",
+      "Abstract/JavaScript.md",
       "Abstract/Main.md"
     ]
   },
