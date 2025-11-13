@@ -1,0 +1,40 @@
+{
+  "recentFiles": [
+    {
+      "basename": "conflict-files-obsidian-git",
+      "path": "conflict-files-obsidian-git.md"
+    },
+    {
+      "basename": "html, css",
+      "path": "Abstract/html, css.md"
+    },
+    {
+      "basename": "JavaScript",
+      "path": "Abstract/JavaScript.md"
+    },
+    {
+      "basename": "верстка",
+      "path": "Abstract/верстка.md"
+    },
+    {
+      "basename": "общее",
+      "path": "Abstract/общее.md"
+    },
+    {
+      "basename": "Git",
+      "path": "Abstract/Git.md"
+    },
+    {
+      "basename": "Main",
+      "path": "Abstract/Main.md"
+    },
+    {
+      "basename": "README",
+      "path": "Abstract/README.md"
+    }
+  ],
+  "omittedPaths": [],
+  "omittedTags": [],
+  "updateOn": "file-open",
+  "omitBookmarks": false
+}

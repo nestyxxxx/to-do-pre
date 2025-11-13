@@ -1,0 +1,20 @@
+{
+  "customFileOrder": {
+    "/": [
+      "conflict-files-obsidian-git.md",
+      "Abstract"
+    ],
+    "Abstract": [
+      "Abstract/New",
+      "Abstract/html, css.md",
+      "Abstract/JavaScript.md",
+      "Abstract/верстка.md",
+      "Abstract/общее.md",
+      "Abstract/Git.md",
+      "Abstract/README.md",
+      "Abstract/Main.md"
+    ]
+  },
+  "draggingEnabled": true,
+  "selectedSortOrder": "manual-sorting"
+}
